@@ -1,9 +1,9 @@
 # lgomez-Pewlett-Hackard-Analysis
 ## Project Overview
-1.	Identify and create the list of employees who will be retiring from the company based on the certain criteria .
-2.	Create a list of position which needs to be filled up once the employees retirees.
+1.	Identify and create the list of employees who will be retiring from the company based date of birth.
+2.	Create a list of positions that need to be filled up once the retirement eligible employees retire.
 3.	Create a list of employees who will retire from Sales and Development.
-4.	Create a list employees retiring from each department.
+4.	Create a list of employees retiring from each department.
 ## Resources
 - Data Source: employees.csv, dept_info.csv, dept_emp.csv, dept_manager.csv, salaries.csv and  titles.csv
 - Software: PostgresSQL 11.7, pgAdmin and QuickDatabaseDiagrams
